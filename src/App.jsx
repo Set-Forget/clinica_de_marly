@@ -2,7 +2,7 @@ import Header from './components/Header'
 import LoadingSAF from './components/LoadingSAF'
 
 const navigation = [
-  { name: 'Product', href: '#' },
+  { name: 'Productoooo', href: '#' },
   { name: 'Features', href: '#' },
   { name: 'Marketplace', href: '#' },
   { name: 'Company', href: '#' },
