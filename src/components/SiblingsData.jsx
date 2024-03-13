@@ -1,8 +1,8 @@
 export default function SiblingsData() {
   return (
-    <div className="container">
+    <div className="bg-white w-auto rounded-lg shadow-md p-6">
       <form>
-        <p className="block text-black-700 text-sm font-bold mt-12 mb-2">
+        <p className="block text-black-700 text-sm font-bold mb-2">
           HERMANOS (POR ORDEN DE NACIMIENTO)
         </p>
 

@@ -1,7 +1,7 @@
 export default function IdData() {
   return (
-    <div>
-      <p className="block text-black-700 text-sm font-bold mt-12 mb-2">
+    <div className="bg-white w-auto rounded-lg shadow-md p-6">
+      <p className="block text-black-700 text-sm font-bold mb-2">
         DATOS DE IDENTIFICACIÓN
       </p>
 

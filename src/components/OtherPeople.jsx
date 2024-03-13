@@ -1,8 +1,8 @@
 export default function OtherPeople() {
   return (
-    <div>
+    <div className="bg-white w-auto rounded-lg shadow-md p-6">
       <form>
-        <p className="block text-gray-700 text-sm font-bold mt-12 mb-2">
+        <p className="block text-gray-700 text-sm font-bold mb-2">
           En caso de que vivan otras personas con el niño:
         </p>
 
